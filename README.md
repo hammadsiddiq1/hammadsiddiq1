@@ -42,7 +42,7 @@
 
 <div>
   <h2>Familiar Languages and Tools</h2>
-  <table class="tg"><thead>
+  <table align="center" width="100%"><thead>
   <tr>
     <th class="tg-0pky"><img width="12" />
     <img src="https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png" height="40" alt="java logo"  />
