@@ -7,7 +7,7 @@
 
 <div class="hammad-siddiq">
   <h2>About me</h2>
-  <p>I am Hammad Siddiq. Currently, I am pursuing a computer science degree at The University of Strathclyde.</p>
+  <p>I am Hammad Siddiq. Currently, I am pursuing a Computer Science degree at The University of Strathclyde.</p>
   <p>In my free time I work with JavaScript and its libraries to make web applications.</p>
   <p>Currently I am working on creating a TypeScript backend for my latest project.</p>
 </div>
