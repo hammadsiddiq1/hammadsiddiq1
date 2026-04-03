@@ -9,7 +9,7 @@
   <h2>About me</h2>
   <p>I am Hammad Siddiq. Currently, I am pursuing a Computer Science degree at The University of Strathclyde.</p>
   <p>In my free time I work with JavaScript and its libraries to make web applications.</p>
-  <p>Currently I am working on creating a TypeScript backend for my latest project.</p>
+  <p>Currently I am working on creating a CI/CD pipeline for one of my projects.</p>
 </div>
 
 <!-- <div style="pointer-events: none;">
@@ -80,7 +80,7 @@
 <h2>Familiar Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,nodejs,git,java,mui,supabase,cloudflare,postgresql&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,next,tailwind,nodejs,git,java,mui,supabase,cloudflare,postgresql,redis,haskell,python&perline=6" />
   </a>
 </p>
 
